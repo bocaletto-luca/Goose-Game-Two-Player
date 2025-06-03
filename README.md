@@ -7,6 +7,8 @@
 ![Project Completed](https://img.shields.io/badge/Project-Completed-green?style=for-the-badge)
 ![GPLv3](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge)
 
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/Goose-Game-Two-Player/)
+
 ## Overview
 
 **Web Goose Game Single Player** is a digital adaptation of the classic Italian board game "Gioco dell'oca" (Game of the Goose). This interactive web game features realistic dice-roll animations, dynamic board events, and quirky obstacles that capture the charm of the traditional game—all running directly in your browser without any installation.
