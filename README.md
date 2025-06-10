@@ -12,7 +12,7 @@
 
 ## Overview
 
-**Web Goose Game Single Player** is a digital adaptation of the classic Italian board game "Gioco dell'oca" (Game of the Goose). This interactive web game features realistic dice-roll animations, dynamic board events, and quirky obstacles that capture the charm of the traditional game—all running directly in your browser without any installation.
+**Goose - WebGame** is a digital adaptation of the classic Italian board game "Gioco dell'oca" (Game of the Goose). This interactive web game features realistic dice-roll animations, dynamic board events, and quirky obstacles that capture the charm of the traditional game—all running directly in your browser without any installation.
 
 ## Installation
 
